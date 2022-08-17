@@ -1,5 +1,7 @@
 ### Hi there 👋
+Gerge nos tiro un centro con Git y Git Hub
 
+ALE MODIFICO TU ARCHIVO  GEORGEEEEE
 <!--
 **jorgeav527/jorgeav527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
